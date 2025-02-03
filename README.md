@@ -1,6 +1,5 @@
 # ZJU IS 课程资料整理
 
-- 浙江大学 23 级信息安全在读，辅修工程教育高级班ACEE
 - Forked from RyanFcr's repository `ZJU_Course`
 - 仓库以大二开始的信息安全专业课资料为主，主要包括：
   - 课程slides
@@ -25,3 +24,7 @@ ZJU计院虽然不像SJTU/NJU有学院维护的wiki，但是我们有很多厉�
 # 声明
 
 如有资料涉及侵权内容，烦请及时告知联系。
+
+readme written by flora6907, 23iser.
+
+This project proposed by flora6907, but this repository is owned by every contributor.
